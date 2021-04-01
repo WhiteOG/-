@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\Арина\\КИТ\\3 курс\\УП\\Новая папка\\-\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\Арина\\КИТ\\3 курс\\УП\\Новая папка\\-\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\Арина\\КИТ\\3 курс\\УП\\Новая папка\\-\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "D:\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "D:\\Арина\\КИТ\\3 курс\\УП\\Новая папка\\-\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Master\\.nuget\\packages\\",
-        "outputPath": "D:\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\Арина\\КИТ\\3 курс\\УП\\Новая папка\\-\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
           "C:\\Users\\Master\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -52,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
